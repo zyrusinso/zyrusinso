@@ -4,9 +4,13 @@
 - 📫 How to reach me. Message me in my social media accounts
 
 Facebook: https://www.facebook.com/zyruslee07/ 
+
 linkedIn: https://www.linkedin.com/in/zyrusinso
+
 Reddit: https://www.reddit.com/user/zyruslee07
+
 Twitter: https://twitter.com/zyrusinso
+
 Email: zyrusinso@Gmail.com
 
 
