@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyrusinso
 - 👀 I’m interested in Guitar, Solving Problem
-- 🌱 I’m currently incoming 1st year of Bachelor of Science in Information Technology(BSIT)
+- 🌱 I’m Graduated of Senior High School, strand Information Communication and Technology(ICT) in Bestlink College Of The Philippines
 - 📫 How to reach me. Message me in my social media accounts
 
 Facebook: https://www.facebook.com/zyruslee07/ 
