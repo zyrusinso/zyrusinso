@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zyrus Inso</h1>
 <h3 align="center">A passionate Backend developer from Quezon City, Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [https://zyrusinso.github.io](https://zyrusinso.github.io){:target="_blank"}
+- 👨‍💻 All of my projects are available at <a href="[https://example.com](https://zyrusinso.github.io)" target="_blank" rel="noopener noreferrer">https://zyrusinso.github.io</a>
+
 
 - 💬 Want to talk? **https://www.facebook.com/zyruslee07**
 
