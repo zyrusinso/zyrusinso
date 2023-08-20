@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at <a href="[https://example.com](https://zyrusinso.github.io)" target="_blank">https://zyrusinso.github.io</a>.
 
 
-- 💬 Want to talk? **https://www.facebook.com/zyruslee07**
+- 💬 Want to talk? **https://www.facebook.com/zyruslee07**.
 
 - 📫 How to reach me **zyrusinso@gmail.com**
 
