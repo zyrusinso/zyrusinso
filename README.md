@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zyrus Inso</h1>
+<h1 align="center">Hi 👋, I'm Zyrus Lee Inso</h1>
 <h3 align="center">A passionate Backend developer from Quezon City, Philippines</h3>
 
 - 👨‍💻 All of my projects are available at <a href="[https://example.com](https://zyrusinso.github.io)" target="_blank">https://zyrusinso.github.io</a>
