@@ -6,7 +6,7 @@
 
 - 💬 Want to talk? **https://www.facebook.com/zyruslee07**.
 
-- 📫 How to reach me **zyrusinso@gmail.com**
+- 📫 How to reach me **zyrusinso@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
